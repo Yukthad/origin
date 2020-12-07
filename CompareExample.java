@@ -1,4 +1,4 @@
-package com.sonata.CollectionExample;
+package com.CollectionExample;
 
 import java.util.ArrayList;
 import java.util.Collections;
